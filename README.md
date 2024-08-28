@@ -6,7 +6,7 @@
 yug-singh-9a67342aa
 
 - 😄 Pronouns: Male
-- ⚡ Fun fact: I am the Mr Fresher of 2023 Batch at my college 
+  
 
 <!---
 Yugsingh05/Yugsingh05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
