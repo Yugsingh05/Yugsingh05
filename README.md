@@ -1,14 +1,17 @@
 - 👋 Hi, I’m @Yugsingh05
 - 👀 I’m interested in exploring the world of Dev .
-- 🌱 I’m currently learning DSA and Web dev.
-- 💞️ I’m looking to collaborate on ...
-- 📫 My linkdin profile is : www.linkedin.com/in/
-yug-singh-9a67342aa
-
-- 😄 Pronouns: Male
-  
-
-<!---
-Yugsingh05/Yugsingh05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Technical Skills
+Front-End Development
+ Languages: TypeScript, JavaScript, HTML5, CSS3
+ Frameworks & Libraries: React.js, Next.js, Shadcn, Redux, React Query (TanStack Query)
+ Design & UI: Responsive Design, UI Design, Tailwind CSS, Bootstrap
+Back-End Development
+ Frameworks & Tools: Node.js, Express.js
+ Authentication & Security: Lucia, Sentry
+ Databases: MongoDB, SQL (PostgreSQL/MySQL), Appwrite , Prisma,Sentry
+Version Control & Collaboration
+ Tools: Git, GitHub, Bitbucket
+Other Development Tools
+ Postman, RESTful API Design
+Programming Languages
+ C++, C
